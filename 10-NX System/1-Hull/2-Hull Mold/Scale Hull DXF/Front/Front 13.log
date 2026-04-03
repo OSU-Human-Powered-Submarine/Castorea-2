@@ -1,0 +1,50 @@
+﻿
+Unigraphics NX2406.1700 / 2D Exchange
+
+Reading part: C:\Users\LOCAL_~1\Temp\Hull Slices Combined_objects.prt
+
+
+Writing part: C:\Users\LOCAL_~1\Temp\rank_5ffyj0tb6xlp.prt
+
+Elapsed time   :    0 minutes,  0 seconds
+Actual CPU Time:    0 minutes,  0 seconds
+
+INFO-
+INFO-		Unigraphics Version NX2406.1700 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODXF Translator .....
+INFO-
+INFO-		Start of Translation: Fri Mar 27 11:56:39 2026
+INFO-
+STATUS-		Converting C:\Users\LOCAL_~1\Temp\rank_5ffyj0tb6xlp.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\LOCAL_~1\Temp\rank_5ffyj0tb6xlp.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	18
+SUMMARY-	Spline ...................................:	2
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	20
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: \\depot.engr.oregonstate.edu\users\rankihag\Windows.Documents\Desktop\10-NX System\1-Hull\2-Hull Mold\Scale Hull DXF\Front\Front 13.dxf
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	18
+SUMMARY-	Polyline .................................:	2
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	26
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Fri Mar 27 11:56:39 2026
+INFO-		Translation CPU time: 0 m, 0 sINFO-
