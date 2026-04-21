@@ -1,0 +1,63 @@
+INFO: Header : Author::Unknown
+INFO: Header : Authorization::  
+INFO: Header : Description::STEP AP242 Edition 2
+INFO: Header : File Name::Syringe 20mL - Seal - Part 1
+INFO: Header : Implementation Level::2;1
+INFO: Header : Organization::Unknown
+INFO: Header : Originating System::ONSHAPE BY PTC INC, 1.213
+INFO: Header : Preprocessor Version::ST-DEVELOPER v20
+INFO: Header : Schema::AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF { 1 0 10303 442 3 1 4 }
+INFO: Header : Time Stamp::2026-04-18T18:53:46Z
+INFO: Begin CAD File Read 'C:/Users/wheaf/Desktop/HPS/Syringe/Syringe 20mL - Seal - Part 1.step'
+
+INFO:       Summary of STEP Entities
+INFO: 
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: advanced_brep_shape_representation .......................:   1
+INFO: advanced_face ............................................:   20
+INFO: application_context ......................................:   1
+INFO: application_protocol_definition ..........................:   1
+INFO: axis2_placement_3d .......................................:   40
+INFO: cartesian_point ..........................................:   60
+INFO: circle ...................................................:   19
+INFO: closed_shell .............................................:   1
+INFO: colour_rgb ...............................................:   1
+INFO: conical_surface ..........................................:   3
+INFO: cylindrical_surface ......................................:   5
+INFO: direction ................................................:   80
+INFO: edge_curve ...............................................:   19
+INFO: edge_loop ................................................:   38
+INFO: face_bound ...............................................:   39
+INFO: fill_area_style ..........................................:   1
+INFO: fill_area_style_colour ...................................:   1
+INFO: geometric_representation_context_and_global_uncertainty_a :   1
+INFO: length_unit_and_si_unit ..................................:   1
+INFO: manifold_solid_brep ......................................:   1
+INFO: mechanical_design_geometric_presentation_representation ..:   1
+INFO: oriented_edge ............................................:   38
+INFO: plane ....................................................:   6
+INFO: plane_angle_unit_and_si_unit .............................:   1
+INFO: presentation_style_assignment ............................:   1
+INFO: product ..................................................:   1
+INFO: product_category .........................................:   1
+INFO: product_context ..........................................:   1
+INFO: product_definition .......................................:   1
+INFO: product_definition_context ...............................:   1
+INFO: product_definition_formation_with_specified_source .......:   1
+INFO: product_definition_shape .................................:   1
+INFO: product_related_product_category .........................:   1
+INFO: shape_definition_representation ..........................:   1
+INFO: shape_representation .....................................:   1
+INFO: shape_representation_relationship ........................:   1
+INFO: si_unit_and_solid_angle_unit .............................:   1
+INFO: styled_item ..............................................:   1
+INFO: surface_side_style .......................................:   1
+INFO: surface_style_fill_area ..................................:   1
+INFO: surface_style_usage ......................................:   1
+INFO: toroidal_surface .........................................:   6
+INFO: uncertainty_measure_with_unit ............................:   1
+INFO: vertex_loop ..............................................:   1
+INFO: vertex_point .............................................:   20
+INFO:                                                              -------
+INFO: Total                                                         424
