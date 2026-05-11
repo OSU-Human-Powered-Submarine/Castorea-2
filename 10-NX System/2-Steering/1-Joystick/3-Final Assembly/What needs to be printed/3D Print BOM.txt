@@ -2,7 +2,6 @@
 plunger_pin 4
 interface_elbowArm 2
 interface_plungerLink 2
-interface_mainRod_cotterPin 6
 interface_mainRod 1
 interface_Base 1
 plunger_Arm 4
